@@ -1,6 +1,6 @@
 # Text Calculator and Storage
 ### :key: Text
- *  Text The original words of something written or printed, as opposed to a paraphrase, translation, revision, or condensation *
+ *  Text The original words of something written or printed, as opposed to a paraphrase, translation, revision, or condensation 
  *  Text is In information technology, text is a human-readable sequence of character s and the words they form that can be encoded into computer-readable formats such as ASCII.  
 ### :key: Calculator
  *  Calc is the name of the spreadsheet program used in OpenOffice * 
