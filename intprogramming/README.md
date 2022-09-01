@@ -3,8 +3,8 @@
  *  Text The original words of something written or printed, as opposed to a paraphrase, translation, revision, or condensation 
  *  Text is In information technology, text is a human-readable sequence of character s and the words they form that can be encoded into computer-readable formats such as ASCII.  
 ### :key: Calculator
- *  Calc is the name of the spreadsheet program used in OpenOffice * 
- *  Calculator is an electronic hardware device or software capable of performing mathematical calculations, such as addition, multiplication, subtraction, or division.(the first computer created for calculating purpose history of computer above this) *
+ *  Calc is the name of the spreadsheet program used in OpenOffice 
+ *  Calculator is an electronic hardware device or software capable of performing mathematical calculations, such as addition, multiplication, subtraction, or division.(the first computer created for calculating purpose history of computer above this)
      The manhattan project
 The manhattan project that contributes a lot for the invansion of the greatest technologies
 * The computer is derived from a Latin word "computare" which means "to calculate", "to count", "to sum up" or "to think together". Therefore, the word computer more precisely means a "device that performs computation".
