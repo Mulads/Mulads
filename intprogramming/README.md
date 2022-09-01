@@ -5,8 +5,8 @@
 ### :key: Calculator
  *  Calc is the name of the spreadsheet program used in OpenOffice 
  *  Calculator is an electronic hardware device or software capable of performing mathematical calculations, such as addition, multiplication, subtraction, or division.(the first computer created for calculating purpose history of computer above this)
-     The manhattan project
-The manhattan project that contributes a lot for the invansion of the greatest technologies
+    #### The manhattan project
+#### The manhattan project that contributes a lot for the invansion of the greatest technologies
 * The computer is derived from a Latin word "computare" which means "to calculate", "to count", "to sum up" or "to think together". Therefore, the word computer more precisely means a "device that performs computation".
 
 * The Manhattan Project involved one of the largest scientific collaborations ever undertaken. Out of it emerged countless new technologies, going far beyond the harnessing of nuclear fission. The development of early computing benefited enormously from the Manhattan Project’s innovation, especially with the Los Alamos laboratory’s developments in the field both during and after the war.
